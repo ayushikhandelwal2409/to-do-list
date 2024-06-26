@@ -35,7 +35,7 @@
 }
 ul li{
     text-align: left;
-    padding: 12px 8px 12px 30px;
+    padding: 12px 30px 12px 30px;
     position: relative;
     font-size: 20px;
     margin-right: 40px;
@@ -51,7 +51,7 @@ ul li{
 ul li span {
     border-radius: 50%;
     color: black;
-    right: 30px;
+    right: 3px;
     border: none;
     position:absolute;
     font-size: 18px;
