@@ -22,7 +22,7 @@
     padding: 20px;
     width:350px;
     height: 500px;
-    border-radius: 50pt;
+    overflow-y: scroll;
 }
 .main2{
     border-color: aliceblue;
