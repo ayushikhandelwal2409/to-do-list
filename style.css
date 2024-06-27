@@ -7,7 +7,7 @@
     grid-template-rows:725px;
 }
 .griditem{
-    background-color: darkcyan;
+    background-color: #ffc8dd;
     border:1px solid white;
     text-align: center;
 }
@@ -15,8 +15,8 @@
     text-shadow: 2px 2px blanchedalmond;
 }
 .main1{
-    border: 15px solid rgb(255, 174, 0);
-    background-color: aliceblue;
+    border: 15px solid #f4acb7;
+    background-color: antiquewhite;
     margin-top: 75px;
     margin-left: 300px;
     padding: 20px;
