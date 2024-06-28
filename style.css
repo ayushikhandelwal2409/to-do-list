@@ -75,3 +75,13 @@ ul li.checked {
     height: 15px;
     width: 7px;
   }
+@media (max-width:600px){
+   .container {
+    grid-template-columns:450px;
+    grid-template-rows:725px 725px;
+    }
+    .main1{
+        margin-top:50px ;
+        margin-left:15px ;
+    }
+  }
